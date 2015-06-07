@@ -4,6 +4,7 @@
 
 	<title>PortFolio</title>
 
+ 	<link href="css/style.css" rel="stylesheet">
 	<!--Bootstrap-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -31,7 +32,7 @@
 					<div class="content">
 						<div class="col-md-12 pt-page-current current_page">
 							<div id ="post-1" style="border:3px solid black;">
-
+								
 							</div>
 						</div>
 
