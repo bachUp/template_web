@@ -1,3 +1,7 @@
 body{
 	background-image: url("../images/colorful-blur.jpg");
 }
+
+li{
+	list-style-type: none;
+}

@@ -20,10 +20,10 @@
 				<div class="main_menu col-md-1 animated fadeInLeft">
 					<div class="row">
 						<ul>
-							<li><a href="#" style="background:red;color:#ffffff;"><i class="glyphicon glyphicon-home"></i></li>
-							<li><a href="#" style="background:blue;color:#ffffff;"><i class="glyphicon glyphicon-list-alt"></i></li>
-							<li><a href="#" style="background:green;color:#ffffff;"><i class="glyphicon glyphicon-folder-open"></i></li>
-							<li><a href="#" style="background:yellow;color:#ffffff;"><i class="glyphicon glyphicon-envelope"></i></li>
+							<li><a href="#" style="background:red;color:#ffffff;"><i class="menu_icon fa fa-home"></i></li>
+							<li><a href="#" style="background:blue;color:#ffffff;"><i class="menu_icon fa fa-file-o"></i></li>
+							<li><a href="#" style="background:green;color:#ffffff;"><i class="menu_icon fa fa-list-ul"></i></li>
+							<li><a href="#" style="background:yellow;color:#ffffff;"><i class="menu_icon fa fa-envelope"></i></li>
 						</ul>
 
 					</div>
@@ -32,7 +32,7 @@
 					<div class="content">
 						<div class="col-md-12 pt-page-current current_page">
 							<div id ="post-1" style="border:3px solid black;">
-								
+
 							</div>
 						</div>
 
@@ -40,13 +40,8 @@
 				</div>
 				<div class="network_icons col-md-1 animated fadeInRight">
 					<ul>
-						<li><a href="#" style="background:#0e5108;color:#ffffff;">lien droite</li>
-						<li><a href="#" style="background:#0e5108;color:#ffffff;">lien droite</li>
-						<li><a href="#" style="background:#0e5108;color:#ffffff;">lien droite</li>
-						<li><a href="#" style="background:#0e5108;color:#ffffff;">lien droite</li>
-						<li><a href="#" style="background:#0e5108;color:#ffffff;">lien droite</li>
-						<li><a href="#" style="background:#0e5108;color:#ffffff;">lien droite</li>
-					</ul>
+						<li><a href="#" style="background:#0e5108;color:#ffffff;"><i class="fa fa-facebook"></i></li>
+						<li><a href="#" style="background:#0e5108;color:#ffffff;"><i class="fa fa-linkedin"></i></li>
 				</div>
 			</div>
 		</div>
